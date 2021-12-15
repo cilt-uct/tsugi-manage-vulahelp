@@ -1,0 +1,5 @@
+*.swp
+tool-config.php
+config.cfg
+cache/*.php
+instructor-home.django.php
